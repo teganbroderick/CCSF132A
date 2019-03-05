@@ -1,0 +1,39 @@
+3.1 and 3.2 - Palindromes
+--------------------
+Yes. Dennis, Nell, Edna, Leon, Nedra, Anita, Rolf, Nora, Alice, Carol, Leo, Jane, Reed, Dena, Dale, Basil, Rae, Penny, Lana, Dave, Denny, Lena, Ida, Bernadette, Ben, Ray, Lila, Nina, Jo, Ira, Mara, Sara, Mario, Jan, Ina, Lily, Arne, Bette, Dan, Reba, Diane, Lynn, Ed, Eva, Dana, Lynne, Pearl, Isabel, Ada, Ned, Dee, Rena, Joel, Lora, Cecil, Aaron, Flora, Tina, Arden, Noel, and Ellen sinned. is a palindrome
+Yes. Depardieu, go razz a rogue I draped. is a palindrome
+Yes. Desserts I stressed. is a palindrome
+Mister, mister, on a see-saw with your sister. is not a palindrome. :(
+Yes. Detartrated. is a palindrome
+Yes. Devo met a Mr., eh, DNA and her mate moved. is a palindrome
+Yes. Di as dad said. is a palindrome
+abracadabra! is not a palindrome. :(
+Yes. Did I draw Della too tall, Edward? I did? is a palindrome
+Yes. Dior droid. is a palindrome
+Yes. 'DNA-land.' is a palindrome
+Yes. Do geese see god? is a palindrome
+Yes. Do good? I? No. Evil anon I deliver. I maim nine more hero-men in Saginaw, sanitary sword a-tuck, Carol, I. Lo! Rack, cut a drowsy rat in Aswan. I gas nine more hero-men in Miami. Reviled, I (Nona) live on. I do, O God. is a palindrome
+Yes. Do nine men interpret?" "Nine men," I nod. is a palindrome
+Almost every sentence is NOT a palindrome! How unfair! is not a palindrome. :(
+
+3.3 Sentence Counter
+--------------------
+Sentence count is 166
+
+3.4 Paragraph Counter
+--------------------
+Paragraph count is 63
+
+
+3.5 Anagram Function
+--------------------
+["Alan", "lana", "aaln"]
+["bard", "brad", "drAb"]
+["for", "ofr", "roF"]
+["barE", "bear", "brae"]
+["abet", "Bate", "beat", "beta", "TEAb"]
+["brag", "gArb", "grab"]
+["acme", "caME", "mace", "ceam"]
+["acre", "care", "race", "reac"]
+["Cars", "raCs", "Scar", "arcs"]
+["relish", "shilre", "shiler"]
