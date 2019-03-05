@@ -1,0 +1,38 @@
+Script started on Wed 06 Feb 2019 07:40:35 PM PST
+]0;tbroderi@hills:~/public_html/cs132a/Week2[?1034h[tbroderi@hills Week2]$ clear
+[3;J[H[2J]0;tbroderi@hills:~/public_html/cs132a/Week2[tbroderi@hills Week2]$ cd
+]0;tbroderi@hills:~[tbroderi@hills ~]$ pwd
+/students/tbroderi
+]0;tbroderi@hills:~[tbroderi@hills ~]$ which ruby
+/usr/local/bin/ruby
+]0;tbroderi@hills:~[tbroderi@hills ~]$ ruby -v
+ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-linux]
+]0;tbroderi@hills:~[tbroderi@hills ~]$ ruby -pe 'print' ~/.bash_po[Krofile
+# .bash_profile
+# .bash_profile
+
+
+# Get the aliases and functions
+# Get the aliases and functions
+if [ -f ~/.bashrc ]; then
+if [ -f ~/.bashrc ]; then
+	. ~/.bashrc
+	. ~/.bashrc
+fi
+fi
+
+
+# User specific environment and startup programs
+# User specific environment and startup programs
+
+
+PATH=$PATH:$HOME/.local/bin:$HOME/bin
+PATH=$PATH:$HOME/.local/bin:$HOME/bin
+
+
+export PATH
+export PATH
+]0;tbroderi@hills:~[tbroderi@hills ~]$ exit
+exit
+
+Script done on Wed 06 Feb 2019 07:42:05 PM PST
