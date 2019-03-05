@@ -1,0 +1,18 @@
+Script started on Sat 02 Feb 2019 11:34:15 AM PST
+]0;tbroderi@hills:~[?1034h[tbroderi@hills ~]$ clear
+[3;J[H[2J]0;tbroderi@hills:~[tbroderi@hills ~]$ cd
+]0;tbroderi@hills:~[tbroderi@hills ~]$ pwd
+/students/tbroderi
+]0;tbroderi@hills:~[tbroderi@hills ~]$ ls
+[0m[38;5;27mCS132A[0m  [38;5;27mSandbox[0m  shell_commands.txt
+]0;tbroderi@hills:~[tbroderi@hills ~]$ which ruby
+/usr/local/bin/ruby
+]0;tbroderi@hills:~[tbroderi@hills ~]$ ruby -v
+ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-linux]
+]0;tbroderi@hills:~[tbroderi@hills ~]$ ruby -e "puts 'This is my first[K[K[K[K[K[K[K[Kthe first thing i have written on the  command ln[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[Krun on the com mand line'"[K[K :) '"
+This is the first thing i have run on the command line :) 
+]0;tbroderi@hills:~[tbroderi@hills ~]$ exit
+exit
+
+Script done on Sat 02 Feb 2019 11:35:22 AM PST
