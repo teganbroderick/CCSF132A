@@ -1,0 +1,56 @@
+###########################################
+###########################################
+###########################################
+############### arr2cols.rb ###############
+###########################################
+###########################################
+###########################################
+max in this array 8
+max in this array 14
+max in this array 9
+max in this array 5
+max in this array 10
+max in this array 13
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Escargot Player Data   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+(Longest data: 13  -- adding 2 for padding)
+
+Jim            bullfrog       99             
+Mack the Knife caterpillar    12             
+Willy          chihuahua      143            
+Trudy          bunny          3              
+Mary Lou       slow loris     1443           
+Sharon Stone   komodo dragon  8888           
+
+max in this array 20
+max in this array 23
+max in this array 20
+max in this array 23
+max in this array 23
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Employees   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+(Longest data: 22  -- adding 2 for padding)
+
+Walter White            123 Happy Home Drive    Albuquerque             NM                      555-66-7777             505-123-4567            
+Jesse Pinkman           43 Cloudy Skies Parkway Albuquerque             NM                      666-12-3456,            505-888-9999            
+Gustavo Fring           123 Pollos Boulevard    Albuquerque             NM                      565-32-3344             505-434-9001            
+Tuco Salamanca          99 Crystal Springs Lane Albuquerque             NM                      575-44-3553             505-776-0455            
+Saul Goodman            9800 Montgomery Blvd NE Albuquerque             NM                      585-19-9990             505-503-4455            
+
+max in this array 10
+max in this array 17
+max in this array 14
+max in this array 12
+max in this array 17
+max in this array 20
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Artists   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+(Longest data: 19  -- adding 2 for padding)
+
+first_name           last_name            telephone            address              city                 state                zip_code             birthdate            salary               
+Vinh                 Tranh                438-910-7449         8235 Maple Street    Wilmington           VM                   29085                9/23/63              1200                 
+William              Kopf                 846-836-2837         6937 Ware Road       Milton               PA                   93756                9/21/46              43500                
+Yukio                Takeshida            387-827-1095         13 Uno Lane          Ashville             NC                   23556                7/1/29               57000                
+Zippy                Pinhead              834-823-8319         2356 Bizarro Ave.    Farmount             IL                   84357                1/1/67               89500                
+Andy                 Warhol               212-321-7654         231 East 47th Street New York City        NY                   10017                8/6/1928             2700000              
+
