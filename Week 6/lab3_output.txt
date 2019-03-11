@@ -1,0 +1,2227 @@
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Lab 3 Text Analyzer
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
+
+============================================================
+
+Statistics for RUTHERFORD B. HAYES, INAUGURAL ADDRESS
+File: rutherford_b._hayes_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+256    14928  12680             2489   61         28          40              41.23%     58.77% 
+
+
+ABSTRACT
+--------
+1.  They meant that the officer should be secure in his tenure as long as his personal character remained untarnished and the performance of his duties satisfactory
+2.  But at the basis of all prosperity, for that as well as for every other part of the country, lies the improvement of the intellectual and moral condition of the people
+3.  The immeasurable benefits which will surely follow, sooner or later, the hearty and generous acceptance of the legitimate results of that revolution have not yet been realized
+4.  With respect to the financial condition of the country, I shall not attempt an extended history of the embarrassment and prostration which we have suffered during the past three years
+5.  To this end, liberal and permanent provision should be made for the support of free schools by the State governments, and, if need be, supplemented by legitimate aid from national authority
+6.  It must be regarded as the expression of the united voice and will of the whole country upon this subject, and both political parties are virtually pledged to give it their unreserved support
+7.  It must be a government which submits loyally and heartily to the Constitution and the laws--the laws of the nation and the laws of the States themselves--accepting and obeying faithfully the whole Constitution as it is
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+country (20)
+government (18)
+states (11)
+public (11)
+political (10)
+people (9)
+great (9)
+party (8)
+united (7)
+interests (7)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/rutherford_b._hayes_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JAMES MONROE, SECOND INAUGURAL ADDRESS
+File: james_monroe_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+419    26332  22257             4465   134        28          33              38.58%     61.42% 
+
+
+ABSTRACT
+--------
+1.  The distinction has flattered their pride, retarded their improvement, and in many instances paved the way to their destruction
+2.  This contest was considered at an early stage by my predecessor a civil war in which the parties were entitled to equal rights in our ports
+3.  Our relations with the Barbary Powers are preserved in the same state and by the same means that were employed when I came into this office
+4.  It belongs to the Executive not to suffer the executions under these decisions to transcend the great purpose for which punishment is necessary
+5.  The laws making this provision were passed in 1815 and 1816, and it has been since the constant effort of the Executive to carry them into effect
+6.  The war between Spain and the colonies in South America, which had commenced many years before, was then the only conflict that remained unsettled
+7.  In our whole system, national and State, we have shunned all the defects which unceasingly preyed on the vitals and destroyed the ancient Republics
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+great (29)
+states (20)
+war (16)
+united (16)
+citizens (15)
+government (13)
+power (11)
+force (11)
+commerce (11)
+people (11)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/james_monroe_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for FRANKLIN D. ROOSEVELT, THIRD INAUGURAL ADDRESS
+File: franklin_d._roosevelt_third_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+163    7535   6339              1341   76         37          17              37.09%     62.91% 
+
+
+ABSTRACT
+--------
+1.  We know it because we have seen it revive--and grow
+2.  But it is not enough to achieve these purposes alone
+3.  The democratic aspiration is no mere recent phase in human history
+4.  For this we muster the spirit of America, and the faith of America
+5.  And yet we all understand what it is--the spirit--the faith of America
+6.  The life of a nation is the fullness of the measure of its will to live
+7.  The life of a man is three-score years and ten: a little more, a little less
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+nation (12)
+democracy (9)
+life (9)
+spirit (9)
+america (7)
+people (7)
+freedom (6)
+years (6)
+speaks (5)
+mind (5)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/franklin_d._roosevelt_third_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for ULYSSES S. GRANT, FIRST INAUGURAL ADDRESS
+File: ulysses_s._grant_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+115    6498   5471              1131   42         15          26              38.75%     61.25% 
+
+
+ABSTRACT
+--------
+1.  I shall on all subjects have a policy to recommend, but none to enforce against the will of the people
+2.  The proper treatment of the original occupants of this land--the Indians one deserving of careful study
+3.  If others depart from this rule in their dealings with us, we may be compelled to follow their precedent
+4.  I bring to it a conscious desire and determination to fill it to the best of my ability to the satisfaction of the people
+5.  How the public debt is to be paid or specie payments resumed is not so important as that a plan should be adopted and acquiesced in
+6.  I have taken this oath without mental reservation and with the determination to do to the best of my ability all that is required of me
+7.  Whilst the question of specie payments is in abeyance the prudent business man is careful about contracting debts payable in the distant future
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+country (8)
+dollar (5)
+laws (5)
+public (5)
+debt (4)
+years (4)
+office (4)
+law (3)
+nations (3)
+nation (3)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/ulysses_s._grant_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for WILLIAM HOWARD TAFT, INAUGURAL ADDRESS
+File: william_howard_taft_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+526    32167  27217             5438   161        44          33              39.89%     60.11% 
+
+
+ABSTRACT
+--------
+1.  It will furnish absolute security which makes the proposed scheme of government guaranty of deposits so alluring, without its pernicious results
+2.  The office of an inaugural address is to give a summary outline of the main policies of the new administration, so far as they can be anticipated
+3.  I have had the honor to be one of the advisers of my distinguished predecessor, and, as such, to hold up his hands in the reforms he has initiated
+4.  Therefore the Executive, in recognizing the negro race by appointments, must exercise a careful discretion not thereby to do it more harm than good
+5. WILLIAM HOWARD TAFT, INAUGURAL ADDRESS My Fellow-Citizens: Anyone who has taken the oath I have just taken must feel a heavy weight of responsibility
+6.  The consideration of this question can not, however, be complete and full without reference to the negro race, its progress and its present condition
+7.  On the other hand, we must be careful not to encourage the mere pretense of race feeling manufactured in the interest of individual political ambition
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (26)
+business (22)
+proper (15)
+congress (14)
+law (14)
+race (13)
+tariff (13)
+south (12)
+states (12)
+policy (12)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/william_howard_taft_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for CALVIN COOLIDGE, INAUGURAL ADDRESS
+File: calvin_coolidge_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+376    23951  20243             4056   197        24          20              38.07%     61.93% 
+
+
+ABSTRACT
+--------
+1.  As one result of this, our Navy ranks larger, in comparison, than it ever did before
+2.  But the last election showed that appeals to class and nationality had little effect
+3.  We have never any wish to interfere in the political conditions of any other countries
+4.  They know that extravagance lengthens the hours and diminishes the rewards of their labor
+5.  It is true that we could, with profit, be less sectional and more national in our thought
+6.  It is not the name of the action, but the result of the action, which is the chief concern
+7.  The men and women of this country who toil are the ones who bear the cost of the Government
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+country (17)
+great (16)
+people (15)
+government (14)
+peace (13)
+world (13)
+party (10)
+law (10)
+nations (9)
+rights (8)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/calvin_coolidge_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JAMES BUCHANAN, INAUGURAL ADDRESS
+File: james_buchanan_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+273    16815  14242             2834   90         22          31              39.89%     60.11% 
+
+
+ABSTRACT
+--------
+1.  It has alienated and estranged the people of the sister States from each other, and has even seriously endangered the very existence of the Union
+2.  I shall now proceed to take the oath prescribed by the Constitution, whilst humbly invoking the blessing of Divine Providence on this great people
+3.  Most happy will it be for the country when the public mind shall be diverted from this question to others of more pressing and practical importance
+4.  Whenever in our past history doubtful powers have been exercised by Congress, these have never failed to produce injurious and unhappy consequences
+5.  It may be proper that on this occasion I should make some brief remarks in regard to our rights and duties as a member of the great family of nations
+6.  The purity of official agents, whether rightfully or wrongfully, is suspected, and the character of the government suffers in the estimation of the people
+7.  Acting on this principle, no nation will have a right to interfere or to complain if in the progress of events we shall still further extend our possessions
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+states (22)
+constitution (17)
+government (14)
+people (13)
+question (11)
+great (11)
+union (10)
+public (9)
+congress (9)
+country (9)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/james_buchanan_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for DWIGHT D. EISENHOWER, SECOND INAUGURAL ADDRESS
+File: dwight_d._eisenhower_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+194    9147   7659              1660   98         41          16              38.86%     61.14% 
+
+
+ABSTRACT
+--------
+1.  The unity of all who dwell in freedom is their only sure defense
+2.  The designs of that power, dark in purpose, are clear in practice
+3.  These hopes that we have helped to inspire, we can help to fulfill
+4.  We cherish our friendship with all nations that are or would be free
+5.  No nation, however old or great, escapes this tempest of change and turmoil
+6.  The divisive force is International Communism and the power that it controls
+7.  Everywhere we see the seeds of the same growth that America itself has known
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+world (16)
+nations (14)
+freedom (11)
+peace (11)
+seek (10)
+people (10)
+justice (6)
+law (5)
+great (5)
+power (5)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/dwight_d._eisenhower_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for WILLIAM JEFFERSON CLINTON, FIRST INAUGURAL ADDRESS
+File: william_jefferson_clinton_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+157    9203   7690              1601   88         17          18              38.78%     61.22% 
+
+
+ABSTRACT
+--------
+1.  Communism's collapse has called forth old animosities, and new dangers
+2.  We must provide for our nation the way a family provides for its children
+3.  Today as an old order passes, the new world is more free, but less stable
+4.  Technology is almost magical, and ambition for a better life is now universal
+5.  There is no longer a clear division between what is foreign and what is domestic
+6.  We know we have to face hard truths and take strong steps, but we have not done so
+7.  Anyone who has ever watched a child's eyes wander into sleep knows what posterity is
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+world (20)
+america (19)
+people (12)
+today (10)
+americans (9)
+change (9)
+time (7)
+work (6)
+idea (5)
+nation (5)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/william_jefferson_clinton_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for RONALD REAGAN, FIRST INAUGURAL ADDRESS
+File: ronald_reagan_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+251    13733  11518             2436   136        39          17              37.75%     62.25% 
+
+
+ABSTRACT
+--------
+1.  We shall reflect the compassion that is so much a part of your makeup
+2.  When action is required to preserve our national security, we will act
+3.  We are a nation under God, and I believe God intended for us to be free
+4.  Our reluctance for conflict should not be misjudged as a failure of will
+5.  But great as our tax burden is, it has not kept pace with public spending
+6.  We are not, as some would have us believe, doomed to an inevitable decline
+7.  You meet heroes across a counter--and they are on both sides of that counter
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (16)
+americans (9)
+people (9)
+world (9)
+freedom (8)
+time (8)
+work (7)
+america (6)
+man (6)
+nation (6)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/ronald_reagan_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for GEORGE W. BUSH, FIRST INAUGURAL ADDRESS
+File: george_w._bush_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+205    9068   7580              1584   99         50          16              40.25%     59.75% 
+
+
+ABSTRACT
+--------
+1.  Abandonment and abuse are not acts of God, they are failures of love
+2.  And this commitment, if we keep it, is a way to shared accomplishment
+3.  Americans are called to enact this promise in our lives and in our laws
+4.  Do you not think an angel rides in the whirlwind and directs this storm
+5.  It is the determined choice of trust over cynicism, of community over chaos
+6.  And we find that children and community are the commitments that set us free
+7.  We are not this story's author, who fills time and eternity with his purpose
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+america (11)
+nation (11)
+story (10)
+country (9)
+citizens (9)
+courage (5)
+americans (5)
+promise (5)
+freedom (5)
+common (5)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/george_w._bush_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for WOODROW WILSON, FIRST INAUGURAL ADDRESS
+File: woodrow_wilson_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+153    9567   8005              1707   69         11          24              37.62%     62.38% 
+
+
+ABSTRACT
+--------
+1.  We have been refreshed by a new insight into our own life
+2.  That is the question that is uppermost in our minds to-day
+3.  The first duty of law is to keep sound the society it serves
+4.  At last a vision has been vouchsafed us of our life as a whole
+5.  The offices of President and Vice-President have been put into the hands of Democrats
+6.  No one can mistake the purpose for which the Nation now seeks to use the Democratic Party
+7.  That is the question I am going to try to answer, in order, if I may, to interpret the occasion
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+great (14)
+men (11)
+government (9)
+justice (8)
+life (8)
+nation (6)
+party (5)
+cost (4)
+system (4)
+set (4)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/woodrow_wilson_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for BENJAMIN HARRISON, INAUGURAL ADDRESS
+File: benjamin_harrison_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+429    26182  22186             4394   158        36          27              40.79%     59.21% 
+
+
+ABSTRACT
+--------
+1.  We should not cease to be hospitable to immigration, but we should cease to be careless as to the character of it
+2.  The man in whose breast that faith has been darkened is naturally the subject of dangerous and uncanny suggestions
+3.  None are excluded from achieving that diversification of pursuits among the people which brings wealth and contentment
+4.  If the question became in any sense or at any time sectional, it was only because slavery existed in some of the States
+5.  Only the inefficiency of the State laws or an unfair partisan administration of them could suggest a departure from this policy
+6.  How long will those who rejoice that slavery no longer exists cherish or tolerate the incapacities it put upon their communities
+7.  At least until the good offices of kindness and education have been fairly tried the contrary conclusion can not be plausibly urged
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+people (29)
+states (20)
+laws (17)
+public (17)
+great (12)
+constitution (11)
+government (10)
+nation (10)
+law (9)
+methods (8)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/benjamin_harrison_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for GROVER CLEVELAND, FIRST INAUGURAL ADDRESS
+File: grover_cleveland_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+175    10144  8618              1688   45         19          37              42.22%     57.78% 
+
+
+ABSTRACT
+--------
+1.  Amid the din of party strife the people's choice was made, but its attendant circumstances have demonstrated anew the strength and safety of a government by the people
+2.  All discussion as to their fitness for the place accorded to them as American citizens is idle and unprofitable except as it suggests the necessity for their improvement
+3.  Care for the property of the nation and for the needs of future settlers requires that the public domain should be protected from purloining schemes and unlawful occupation
+4.  In the exercise of their power and right of self-government they have committed to one of their fellow-citizens a supreme and sacred trust, and he here consecrates himself to their service
+5.  These topics and the constant and ever-varying wants of an active and enterprising population may well receive the attention and the patriotic endeavor of all who make and execute the Federal law
+6.  Thus is the people's will impressed upon the whole framework of our civil polity--municipal, State, and Federal; and this is the price of our liberty and the inspiration of our faith in the Republic
+7.  In each succeeding year it more clearly appears that our democratic principle needs no apology, and that in its fearless and faithful application is to be found the surest guaranty of good government
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+people (18)
+government (17)
+public (11)
+constitution (8)
+interests (7)
+citizens (6)
+policy (5)
+partisan (5)
+citizen (5)
+american (4)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/grover_cleveland_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for FRANKLIN D. ROOSEVELT, SECOND INAUGURAL ADDRESS
+File: franklin_d._roosevelt_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+203    10594  8954              1821   98         37          18              41.02%     58.98% 
+
+
+ABSTRACT
+--------
+1.  In that purpose we have been helped by achievements of mind and spirit
+2.  For "each age is a dream that is dying, or one that is coming to birth
+3.  Our pledge was not merely to do a patchwork job with secondhand materials
+4.  In this process evil things formerly accepted will not be so easily condoned
+5.  Today we invoke those same powers of government to achieve the same objectives
+6.  This new understanding undermines the old admiration of worldly success as such
+7.  But we realize that there can be no era of good feeling save among men of good will
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (16)
+people (11)
+nation (9)
+good (8)
+democracy (8)
+men (8)
+progress (7)
+power (7)
+millions (6)
+purpose (6)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/franklin_d._roosevelt_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for ﻿GEORGE WASHINGTON, FIRST INAUGURAL ADDRESS
+File: george_washington_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+133    8620   7313              1431   24         7           59              38.58%     61.42% 
+
+
+ABSTRACT
+--------
+1.  In tendering this homage to the Great Author of every public and private good, I assure myself that it expresses your sentiments not less than my own, nor those of my fellow-citizens at large less than either
+2.  When I was first honored with a call into the service of my country, then on the eve of an arduous struggle for its liberties, the light in which I contemplated my duty required that I should renounce every pecuniary compensation
+3. " The circumstances under which I now meet you will acquit me from entering into that subject further than to refer to the great constitutional charter under which you are assembled, and which, in defining your powers, designates the objects to which your attention is to be given
+4.  It will be more consistent with those circumstances, and far more congenial with the feelings which actuate me, to substitute, in place of a recommendation of particular measures, the tribute that is due to the talents, the rectitude, and the patriotism which adorn the characters selected to devise and adopt them
+5. ﻿GEORGE WASHINGTON, FIRST INAUGURAL ADDRESS Fellow-Citizens of the Senate and of the House of Representatives: Among the vicissitudes incident to life no event could have filled me with greater anxieties than that of which the notification was transmitted by your order, and received on the 14th day of the present month
+6.  Besides the ordinary objects submitted to your care, it will remain with your judgment to decide how far an exercise of the occasional power delegated by the fifth article of the Constitution is rendered expedient at the present juncture by the nature of objections which have been urged against the system, or by the degree of inquietude which has given birth to them
+7.  On the other hand, the magnitude and difficulty of the trust to which the voice of my country called me, being sufficient to awaken in the wisest and most experienced of her citizens a distrustful scrutiny into his qualifications, could not but overwhelm with despondence one who (inheriting inferior endowments from nature and unpracticed in the duties of civil administration) ought to be peculiarly conscious of his own deficiencies
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (8)
+public (6)
+country (5)
+present (5)
+citizens (5)
+united (4)
+people (4)
+duty (4)
+measures (3)
+good (3)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/george_washington_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for ULYSSES S. GRANT, SECOND INAUGURAL ADDRESS
+File: ulysses_s._grant_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+136    7731   6509              1338   45         17          29              36.67%     63.33% 
+
+
+ABSTRACT
+--------
+1.  Commerce, education, and rapid transit of thought and matter by telegraph and steam have changed all this
+2.  It has been, and is, my earnest desire to correct abuses that have grown up in the civil service of the country
+3.  It was not a question of my seeking, but was a proposition from the people of Santo Domingo, and which I entertained
+4.  To secure this reformation rules regulating methods of appointment and promotions were established and have been tried
+5.  My best efforts will be given in the same direction in the future, aided, I trust, by my four years' experience in the office
+6.  In the first year of the past Administration the proposition came up for the admission of Santo Domingo as a Territory of the Union
+7.  GRANT, SECOND INAUGURAL ADDRESS Fellow-Citizens: Under Providence I have been called a second time to act as Executive over this great nation
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+country (8)
+people (7)
+office (5)
+great (5)
+proposition (4)
+good (4)
+subject (4)
+territory (4)
+support (4)
+government (4)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/ulysses_s._grant_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for RICHARD MILHOUS NIXON, SECOND INAUGURAL ADDRESS
+File: richard_milhous_nixon_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+218    9961   8337              1804   73         51          24              33.64%     66.36% 
+
+
+ABSTRACT
+--------
+1.  As I stand in this place, so hallowed by history, I think of others who have stood here before me
+2.  Together with the rest of the world, let us resolve to move forward from the beginnings we have made
+3.  And I pledge to you that where this Government should act, we will act boldly and we will lead boldly
+4.  At every turn, we have been beset by those who find everything wrong with America and little that is right
+5.  We have lived too long with the consequences of attempting to gather all power and responsibility in Washington
+6.  Abroad and at home, the key to those new responsibilities lies in the placing and the division of responsibility
+7.  It is important that we understand both the necessity and the limitations of America's role in maintaining that peace
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+america (21)
+peace (19)
+world (18)
+responsibility (11)
+nation (11)
+government (10)
+home (9)
+great (9)
+history (7)
+role (7)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/richard_milhous_nixon_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for WILLIAM HENRY HARRISON, INAUGURAL ADDRESS
+File: william_henry_harrison_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+751    49704  42000             8463   219        25          38              37.09%     62.91% 
+
+
+ABSTRACT
+--------
+1.  It may be said, indeed, that the Constitution has given to the Executive the power to annul the acts of the legislative body by refusing to them his assent
+2.  To assist or control Congress, then, in its ordinary legislation could not, I conceive, have been the motive for conferring the veto power on the President
+3.  I have determined never to remove a Secretary of the Treasury without communicating all the circumstances attending such removal to both Houses of Congress
+4.  Being in the latter condition when the Constitution was formed, no words used in that instrument could have been intended to deprive them of that character
+5.  It was the beautiful remark of a distinguished English writer that "in the Roman senate Octavius had a party and Anthony a party, but the Commonwealth had none
+6.  The negative upon the acts of the legislative by the executive authority, and that in the hands of one individual, would seem to be an incongruity in our system
+7.  Jefferson early saw and lamented this error, and attempts have been made, hitherto without success, to apply the amendatory power of the States to its correction
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+power (47)
+people (38)
+government (36)
+constitution (36)
+citizens (27)
+states (25)
+executive (25)
+country (24)
+great (21)
+spirit (20)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/william_henry_harrison_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for LYNDON BAINES JOHNSON, INAUGURAL ADDRESS
+File: lyndon_baines_johnson_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+177    8183   6837              1489   94         39          15              34.91%     65.09% 
+
+
+ABSTRACT
+--------
+1.  Two centuries of change have made this true again
+2.  This is the majesty and the meaning of this moment
+3.  Change has brought new meaning to that old mission
+4.  It is the uncrossed desert and the unclimbed ridge
+5.  Without this, we shall become a nation of strangers
+6.  We can never again stand aside, prideful in isolation
+7.  I have learned, and I know, that it will not surrender easily
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+change (12)
+nation (12)
+man (10)
+union (9)
+people (9)
+world (7)
+liberty (6)
+justice (6)
+land (6)
+covenant (6)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/lyndon_baines_johnson_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for DWIGHT D. EISENHOWER, FIRST INAUGURAL ADDRESS
+File: dwight_d._eisenhower_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+275    13932  11708             2449   121        53          20              41.76%     58.24% 
+
+
+ABSTRACT
+--------
+1.  By their observance, an earth of peace may become not a vision but a fact
+2.  For history does not long entrust the care of freedom to the weak or the timid
+3.  The nature of these ties must vary with the different problems of different areas
+4.  They are laws of spiritual strength that generate and define our material strength
+5.  This conflict strikes directly at the faith of our fathers and the lives of our sons
+6.  Moral stamina means more energy and more productivity, on the farm and in the factory
+7.  Yet the promise of this life is imperiled by the very genius that has made it possible
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+free (21)
+world (16)
+faith (13)
+peace (12)
+people (11)
+strength (10)
+freedom (10)
+hope (7)
+peoples (7)
+men (7)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/dwight_d._eisenhower_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for ABRAHAM LINCOLN, FIRST INAUGURAL ADDRESS
+File: abraham_lincoln_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+355    21009  17692             3635   136        39          26              35.62%     64.38% 
+
+
+ABSTRACT
+--------
+1.  It is seventy-two years since the first inauguration of a President under our National Constitution
+2.  There is no other alternative, for continuing the Government is acquiescence on one side or the other
+3.  In your hands, my dissatisfied fellow-countrymen, and not in mine, is the momentous issue of civil war
+4.  The people themselves can do this if also they choose, but the Executive as such has nothing to do with it
+5.  Indeed, the most ample evidence to the contrary has all the while existed and been open to their inspection
+6.  I hold that in contemplation of universal law and of the Constitution the Union of these States is perpetual
+7.  They can not but remain face to face, and intercourse, either amicable or hostile, must continue between them
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+constitution (24)
+union (20)
+people (20)
+states (19)
+government (18)
+law (14)
+national (9)
+case (9)
+constitutional (8)
+laws (8)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/abraham_lincoln_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JIMMY CARTER, INAUGURAL ADDRESS
+File: jimmy_carter_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+146    6876   5770              1222   53         32          23              37.31%     62.69% 
+
+
+ABSTRACT
+--------
+1.  We are a purely idealistic Nation, but let no one confuse our idealism with weakness
+2.  I have no new dream to set forth today, but rather urge a fresh faith in the old dream
+3.  Your strength can compensate for my weakness, and your wisdom can help to minimize my mistakes
+4.  Ours was the first society openly to define itself in terms of both spirituality and of human liberty
+5.  In this outward and physical ceremony we attest once again to the inner and spiritual strength of our Nation
+6.  And we will move this year a step toward ultimate goal--the elimination of all nuclear weapons from this Earth
+7.  Within us, the people of the United States, there is evident a serious and purposeful rekindling of confidence
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+nation (13)
+strength (7)
+world (6)
+people (6)
+spirit (6)
+human (5)
+dream (5)
+freedom (4)
+government (4)
+built (3)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/jimmy_carter_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for ANDREW JACKSON, FIRST INAUGURAL ADDRESS
+File: andrew_jackson_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+118    6817   5793              1128   26         13          43              41.48%     58.52% 
+
+
+ABSTRACT
+--------
+1.  The management of the public revenue--that searching operation in all governments--is among the most delicate and important trusts in ours, and it will, of course, demand no inconsiderable share of my official solicitude
+2.  Powerful auxiliaries to the attainment of this desirable end are to be found in the regulations provided by the wisdom of Congress for the specific appropriation of public money and the prompt accountability of public officers
+3.  While the magnitude of their interests convinces me that no thanks can be adequate to the honor they have conferred, it admonishes me that the best return I can make is the zealous dedication of my humble abilities to their service and their good
+4.  Considering standing armies as dangerous to free governments in time of peace, I shall not seek to enlarge our present establishment, nor disregard that salutary lesson of political experience which teaches that the military should be held subordinate to the civil power
+5.  A diffidence, perhaps too just, in my own qualifications will teach me to look with reverence to the examples of public virtue left by my illustrious predecessors, and with veneration to the lights that flow from the mind that founded and the mind that reformed our system
+6.  It will be my sincere and constant desire to observe toward the Indian tribes within our limits a just and liberal policy, and to give that humane and considerate attention to their rights and their wants which is consistent with the habits of our Government and the feelings of our people
+7.  With foreign nations it will be my study to preserve peace and to cultivate friendship on fair and honorable terms, and in the adjustment of any differences that may exist or arise to exhibit the forbearance becoming a powerful nation rather than the sensibility belonging to a gallant people
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+public (8)
+government (6)
+power (5)
+national (4)
+people (4)
+long (3)
+rights (3)
+proper (3)
+generally (3)
+revenue (3)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/andrew_jackson_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JAMES MADISON, SECOND INAUGURAL ADDRESS
+File: james_madison_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+118    7160   6052              1211   34         11          35              40.05%     59.95% 
+
+
+ABSTRACT
+--------
+1.  It is a propitious consideration that an unavoidable war should have found this seasonable facility for the contributions required to support it
+2.  Still more precise advances were repeated, and have been received in a spirit forbidding every reliance not placed on the military resources of the nation
+3.  To render the justice of the war on our part the more conspicuous, the reluctance to commence it was followed by the earliest and strongest manifestations of a disposition to arrest its progress
+4.  Not to contend for such a stake is to surrender our equality with other powers on the element common to all and to violate the sacred title which every member of the society has to its protection
+5.  On the issue of the war are staked our national sovereignty on the high seas and the security of an important class of citizens whose occupations give the proper value to those of every other class
+6.  And now we find them, in further contempt of the modes of honorable warfare, supplying the place of a conquering force by attempts to disorganize our political society, to dismember our confederated Republic
+7.  To render the war short and its success sure, animated and systematic exertions alone are necessary, and the success of our arms now may long preserve our country from the necessity of another resort to them
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+war (15)
+british (5)
+united (5)
+country (5)
+citizens (4)
+spirit (4)
+states (4)
+nation (4)
+honorable (3)
+government (3)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/james_madison_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for WILLIAM MCKINLEY FIRST INAUGURAL ADDRESS
+File: william_mckinley_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+366    23657  20041             3972   131        20          30              40.16%     59.84% 
+
+
+ABSTRACT
+--------
+1.  Suitably to provide against this is the mandate of duty--the certain and easy remedy for most of our financial difficulties
+2.  If we cannot promptly attain it, we can resolutely turn our faces in that direction and aid its return by friendly legislation
+3.  War should never be entered upon until every agency of peace has failed; peace is preferable to war in almost every contingency
+4.  The best interests of the country demand this, and the people heartily approve the law wherever and whenever it has been thus administrated
+5.  We are nearly two years from a Congressional election, and politics cannot so greatly distract us as if such contest was immediately pending
+6.  In conclusion, I congratulate the country upon the fraternal spirit of the people and the manifestations of good will everywhere so apparent
+7.  As a member of Congress I voted and spoke in favor of the present law, and I shall attempt its enforcement in the spirit in which it was enacted
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+people (25)
+government (23)
+congress (18)
+great (16)
+country (14)
+public (13)
+revenue (12)
+states (12)
+united (12)
+free (10)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/william_mckinley_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for ZACHARY TAYLOR, INAUGURAL ADDRESS
+File: zachary_taylor_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+111    6606   5616              1091   23         10          47              41.19%     58.81% 
+
+
+ABSTRACT
+--------
+1.  With such aids and an honest purpose to do whatever is right, I hope to execute diligently, impartially, and for the best interests of the country the manifold duties devolved upon me
+2.  So far as it is possible to be informed, I shall make honesty, capacity, and fidelity indispensable prerequisites to the bestowal of office, and the absence of either of these qualities shall be deemed sufficient cause for removal
+3. " For the interpretation of that instrument I shall look to the decisions of the judicial tribunals established by its authority and to the practice of the Government under the earlier Presidents, who had so large a share in its formation
+4.  I shall look with confidence to the enlightened patriotism of that body to adopt such measures of conciliation as may harmonize conflicting interests and tend to perpetuate that Union which should be the paramount object of our hopes and affections
+5. ZACHARY TAYLOR, INAUGURAL ADDRESS Elected by the American people to the highest office known to our laws, I appear here to take the oath prescribed by the Constitution, and, in compliance with a time-honored custom, to address those who are now assembled
+6.  As American freemen we can not but sympathize in all efforts to extend the blessings of civil and political liberty, but at the same time we are warned by the admonitions of history and the voice of our own beloved Washington to abstain from entangling alliances with foreign nations
+7.  In reference to the Army and Navy, lately employed with so much distinction on active service, care shall be taken to insure the highest condition of efficiency, and in furtherance of that object the military and naval schools, sustained by the liberality of Congress, shall receive the special attention of the Executive
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (7)
+country (6)
+duties (5)
+congress (4)
+interests (4)
+constitution (4)
+object (3)
+public (3)
+care (3)
+measures (3)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/zachary_taylor_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for MARTIN VAN BUREN, INAUGURAL ADDRESS
+File: martin_van_buren_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+366    23409  19924             3844   98         20          39              40.98%     59.02% 
+
+
+ABSTRACT
+--------
+1.  The last, perhaps the greatest, of the prominent sources of discord and disaster supposed to lurk in our political condition was the institution of domestic slavery
+2.  Most carefully were all these circumstances weighed, and the foundations of the new Government laid upon principles of reciprocal concession and equitable compromise
+3.  Half a century, teeming with extraordinary events, and elsewhere producing astonishing results, has passed along, but on our institutions it has left no injurious mark
+4.  In justly balancing the powers of the Federal and State authorities difficulties nearly insurmountable arose at the outset and subsequent collisions were deemed inevitable
+5.  In imitating their example I tread in the footsteps of illustrious men, whose superiors it is our happiness to believe are not found on the executive calendar of any country
+6.  To enter on this occasion into a further or more minute exposition of my views on the various questions of domestic policy would be as obtrusive as it is probably unexpected
+7.  From time to time embarrassments have certainly occurred; but how just is the confidence of future safety imparted by the knowledge that each in succession has been happily removed
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+people (20)
+government (16)
+institutions (16)
+country (15)
+states (8)
+power (8)
+experience (8)
+spirit (7)
+present (7)
+confidence (7)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/martin_van_buren_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JOHN ADAMS INAUGURAL ADDRESS
+File: john_adams_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+220    13878  11763             2321   38         14          61              40.28%     59.72% 
+
+
+ABSTRACT
+--------
+1.  If national pride is ever justifiable or excusable it is when it springs, not from power or riches, grandeur or glory, but from conviction of national innocence, information, and benevolence
+2.  It may be foreign nations who govern us, and not we, the people, who govern ourselves; and candid men will acknowledge that in such cases choice would have little advantage to boast of over lot or chance
+3.  In its general principles and great outlines it was conformable to such a system of government as I had ever most esteemed, and in some States, my own native State in particular, had contributed to establish
+4.  Measures were pursued to concert a plan to form a more perfect union, establish justice, insure domestic tranquillity, provide for the common defense, promote the general welfare, and secure the blessings of liberty
+5.  Can authority be more amiable and respectable when it descends from accidents or institutions established in remote antiquity than when it springs fresh from the hearts and judgments of an honest and enlightened people
+6.  If an election is to be determined by a majority of a single vote, and that can be procured by a party through artifice or corruption, the Government may be the choice of a party for its own ends, not of the nation for the national good
+7.  Returning to the bosom of my country after a painful separation from it for ten years, I had the honor to be elected to a station under the new order of things, and I have repeatedly laid myself under the most serious obligations to support the Constitution
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+people (20)
+government (16)
+nations (11)
+country (10)
+states (9)
+nation (9)
+constitution (8)
+foreign (8)
+honor (7)
+spirit (6)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/john_adams_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for BARACK OBAMA, FIRST INAUGURAL ADDRESS
+File: barack_obama_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+240    13372  11169             2388   113        36          21              39.25%     60.75% 
+
+
+ABSTRACT
+--------
+1.  For we know that our patchwork heritage is a strength, not a weakness
+2.  Our nation is at war, against a far-reaching network of violence and hatred
+3.  Nor is the question before us whether the market is a force for good or ill
+4.  Yet, every so often the oath is taken amidst gathering clouds and raging storms
+5.  We are a nation of Christians and Muslims, Jews and Hindus -- and non-believers
+6. that the city and the country, alarmed at one common danger, came forth to meet (it)
+7.  So let us mark this day with remembrance, of who we are and how far we have traveled
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+nation (12)
+america (9)
+world (7)
+people (7)
+today (7)
+common (6)
+work (6)
+time (6)
+spirit (5)
+day (5)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/barack_obama_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JOHN F. KENNEDY, INAUGURAL ADDRESS
+File: john_f._kennedy_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+150    7567   6347              1363   59         27          23              39.18%     60.82% 
+
+
+ABSTRACT
+--------
+1.  But this peaceful revolution of hope cannot become the prey of hostile powers
+2.  The graves of young Americans who answered the call to service surround the globe
+3.  If a free society cannot help the many who are poor, it cannot save the few who are rich
+4.  And let every other power know that this Hemisphere intends to remain the master of its own house
+5.  Divided, there is little we can do--for we dare not meet a powerful challenge at odds and split asunder
+6.  To those old allies whose cultural and spiritual origins we share, we pledge the loyalty of faithful friends
+7.  For man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+sides (8)
+world (8)
+pledge (7)
+nations (5)
+free (5)
+power (5)
+citizens (5)
+call (4)
+country (4)
+arms (4)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/john_f._kennedy_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for HARRY S. TRUMAN, INAUGURAL ADDRESS
+File: harry_s._truman_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+303    13666  11630             2280   120        71          19              43.38%     56.62% 
+
+
+ABSTRACT
+--------
+1.  We believe that all men are created equal because they are created in the image of God
+2.  These differences between communism and democracy do not concern the United States alone
+3.  We are aided by all who desire self-government and a voice in deciding their own affairs
+4.  But I say to all men, what we have achieved in liberty, we will surpass in greater liberty
+5.  We have consistently advocated and relied upon peaceful settlement of disputes among nations
+6.  The American people stand firm in the faith which has inspired this Nation from the beginning
+7.  What we envisage is a program of development based on the concepts of democratic fair-dealing
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+world (23)
+nations (22)
+peace (15)
+freedom (13)
+people (12)
+free (11)
+united (10)
+democracy (9)
+security (9)
+peoples (9)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/harry_s._truman_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JAMES A. GARFIELD INAUGURAL ADDRESS
+File: james_a._garfield_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+315    17769  15067             2986   113        39          26              41.13%     58.87% 
+
+
+ABSTRACT
+--------
+1.  To interpret and to execute that will in accordance with the Constitution is the paramount duty of the Executive
+2.  The free enjoyment of equal suffrage is still in question, and a frank statement of the issue may aid its solution
+3.  So far as the latter is true, it is the only palliation that can be offered for opposing the freedom of the ballot
+4.  The finances of the Government shall suffer no detriment which it may be possible for my Administration to prevent
+5.  Congress is prohibited from making any law respecting an establishment of religion or prohibiting the free exercise thereof
+6.  The chief duty of the National Government in connection with the currency of the country is to coin money and declare its value
+7.  Enterprises of the highest importance to our moral and material well-being unite us and offer ample employment of our best powers
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (23)
+people (21)
+states (15)
+constitution (15)
+great (11)
+union (11)
+law (10)
+congress (9)
+power (9)
+authority (9)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/james_a._garfield_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for WILLIAM MCKINLEY, SECOND INAUGURAL ADDRESS
+File: william_mckinley_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+212    13433  11412             2214   101        13          21              41.17%     58.83% 
+
+
+ABSTRACT
+--------
+1.  My fellow-citizens, the public events of the past four years have gone into history
+2.  Now they are sufficient for all public needs, and we have a surplus instead of a deficit
+3.  Honesty, capacity, and industry are nowhere more indispensable than in public employment
+4.  Then our Treasury receipts were inadequate to meet the current obligations of the Government
+5.  There are some national questions in the solution of which patriotism should exclude partisanship
+6.  When once it is registered it is a law to us all, and faithful observance should follow its decrees
+7.  These should be fundamental requisites to original appointment and the surest guaranties against removal
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (15)
+people (12)
+states (9)
+united (9)
+executive (9)
+congress (9)
+islands (7)
+peace (7)
+war (7)
+american (7)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/william_mckinley_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for WOODROW WILSON, SECOND INAUGURAL ADDRESS
+File: woodrow_wilson_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+146    8391   6989              1529   60         18          25              34.38%     65.62% 
+
+
+ABSTRACT
+--------
+1.  To be indifferent to it, or independent of it, was out of the question
+2.  Upon this as a platform of purpose and of action we can stand together
+3.  And yet all the while we have been conscious that we were not part of it
+4.  In that consciousness, despite many divisions, we have drawn closer together
+5.  Our own fortunes as a nation are involved whether we would have it so or not
+6.  They are too deeply rooted in the principles of our national life to be altered
+7.  We have known and boasted all along that they were the principles of a liberated mankind
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+purpose (8)
+action (7)
+stand (6)
+peace (6)
+world (6)
+people (6)
+life (6)
+power (5)
+principles (5)
+thought (5)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/woodrow_wilson_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for THOMAS JEFFERSON FIRST INAUGURAL ADDRESS
+File: thomas_jefferson_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+157    10129  8557              1730   42         7           41              38.63%     61.37% 
+
+
+ABSTRACT
+--------
+1.  This is the sum of good government, and this is necessary to close the circle of our felicities
+2.  Let us restore to social intercourse that harmony and affection without which liberty and even life itself are but dreary things
+3.  And may that Infinite Power which rules the destinies of the universe lead our councils to what is best, and give them a favorable issue for your peace and prosperity
+4.  I believe it the only one where every man, at the call of the law, would fly to the standard of the law, and would meet invasions of the public order as his own personal concern
+5.  Relying, then, on the patronage of your good will, I advance with obedience to the work, ready to retire from it whenever you become sensible how much better choice it is in your power to make
+6.  If there be any among us who would wish to dissolve this Union or to change its republican form, let them stand undisturbed as monuments of the safety with which error of opinion may be tolerated where reason is left free to combat it
+7.  Utterly, indeed, should I despair did not the presence of many whom I here see remind me that in the other high authorities provided by our Constitution I shall find resources of wisdom, of virtue, and of zeal on which to rely under all difficulties
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (12)
+citizens (7)
+fellow (7)
+man (6)
+principle (6)
+peace (5)
+good (5)
+safety (5)
+freedom (4)
+confidence (4)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/thomas_jefferson_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for WARREN G. HARDING, INAUGURAL ADDRESS
+File: warren_g._harding_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+342    20295  17273             3338   150        34          22              43.81%     56.19% 
+
+
+ABSTRACT
+--------
+1.  Surely there must have been God's intent in the making of this new-world Republic
+2.  There was ample discussion, and there is a public mandate in manifest understanding
+3.  One cannot stand in this presence and be unmindful of the tremendous responsibility
+4.  Today, better than ever before, we know the aspirations of humankind, and share them
+5.  The earth is thirsting for the cup of good will, understanding is its fountain source
+6.  A regret for the mistakes of yesterday must not, however, blind us to the tasks of today
+7.  We have seen the world rivet its hopeful gaze on the great truths on which the founders wrought
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+world (28)
+war (15)
+america (15)
+civilization (12)
+government (11)
+order (10)
+republic (10)
+american (8)
+peace (7)
+understanding (7)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/warren_g._harding_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for ABRAHAM LINCOLN, SECOND INAUGURAL ADDRESS
+File: abraham_lincoln_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+63     3929   3285              701    27         4           25              35.21%     64.79% 
+
+
+ABSTRACT
+--------
+1.  Both read the same Bible and pray to the same God, and each invokes His aid against the other
+2.  Fondly do we hope, fervently do we pray, that this mighty scourge of war may speedily pass away
+3.  On the occasion corresponding to this four years ago all thoughts were anxiously directed to an impending civil war
+4.  One-eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the southern part of it
+5.  Both parties deprecated war, but one of them would make war rather than let the nation survive, and the other would accept war rather than let it perish, and the war came
+6. 
+7. 
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+war (12)
+god (6)
+union (4)
+years (4)
+offenses (3)
+woe (3)
+interest (3)
+nation (3)
+address (3)
+drawn (2)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/abraham_lincoln_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for GEORGE WASHINGTON, SECOND INAUGURAL ADDRESS
+File: george_washington_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+17     792    666               135    5          3           27              40.0%      60.0%  
+
+
+ABSTRACT
+--------
+1. GEORGE WASHINGTON, SECOND INAUGURAL ADDRESS Fellow Citizens: I am again called upon by the voice of my country to execute the functions of its Chief Magistrate
+2.  When the occasion proper for it shall arrive, I shall endeavor to express the high sense I entertain of this distinguished honor, and of the confidence which has been reposed in me by the people of united America
+3. 
+4. 
+5. 
+6. 
+7. 
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+oath (2)
+ceremony (1)
+solemn (1)
+present (1)
+witnesses (1)
+upbraidings (1)
+subject (1)
+punishment (1)
+constitutional (1)
+incurring (1)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/george_washington_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for RICHARD MILHOUS NIXON, FIRST INAUGURAL ADDRESS
+File: richard_milhous_nixon_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+275    11590  9679              2124   106        77          20              36.55%     63.45% 
+
+
+ABSTRACT
+--------
+1.  But we are approaching the limits of what government alone can do
+2.  The second third of this century has been a time of proud achievement
+3.  We have made enormous strides in science and industry and agriculture
+4.  After a period of confrontation, we are entering an era of negotiation
+5.  Until he has been part of a cause larger than himself, no man is truly whole
+6.  In throwing wide the horizons of space, we have discovered new horizons on earth
+7.  We have learned at last to manage a modern economy to assure its continued growth
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+people (14)
+world (13)
+peace (12)
+man (10)
+earth (9)
+voices (8)
+spirit (6)
+god (6)
+america (6)
+moment (6)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/richard_milhous_nixon_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for BARACK OBAMA, SECOND INAUGURAL ADDRESS
+File: barack_obama_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+221    12290  10027             2114   90         1           23              40.37%     59.63% 
+
+
+ABSTRACT
+--------
+1.  We do not believe that in this country freedom is reserved for the lucky, or happiness for the few
+2.  They do not make us a nation of takers; they free us to take the risks that make this country great
+3.  Our journey is not complete until no citizen is forced to wait for hours to exercise the right to vote
+4.  Our brave men and women in uniform, tempered by the flames of battle, are unmatched in skill and courage
+5.  This generation of Americans has been tested by crises that steeled our resolve and proved our resilience
+6.  My fellow Americans, we are made for this moment, and we will seize it -- so long as we seize it together
+7.  Our citizens, seared by the memory of those we have lost, know too well the price that is paid for liberty
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+people (11)
+time (10)
+america (8)
+country (7)
+generation (6)
+freedom (6)
+journey (6)
+today (6)
+equal (6)
+american (6)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/barack_obama_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for GROVER CLEVELAND, SECOND INAUGURAL ADDRESS
+File: grover_cleveland_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+217    12353  10525             2019   59         27          34              43.24%     56.76% 
+
+
+ABSTRACT
+--------
+1.  Fully impressed with the gravity of the duties that confront me and mindful of my weakness, I should be appalled if it were my lot to bear unaided the responsibilities which await me
+2.  If in lifting burdens from the daily life of our people we reduce inordinate and unequal advantages too long enjoyed, this is but a necessary incident of our return to right and justice
+3. GROVER CLEVELAND, SECOND INAUGURAL ADDRESS My Fellow-Citizens: In obedience of the mandate of my countrymen I am about to dedicate myself to their service under the sanction of a solemn oath
+4.  These aggregations and combinations frequently constitute conspiracies against the interests of the people, and in all their phases they are unnatural and opposed to our American sense of fairness
+5.  At the same time, in our efforts to adjust differences of opinion we should be free from intolerance or passion, and our judgments should be unmoved by alluring phrases and unvexed by selfish interests
+6.  I find also much comfort in remembering that my countrymen are just and generous and in the assurance that they will not condemn those who by sincere devotion to their service deserve their forbearance and approval
+7.  The lessons of paternalism ought to be unlearned and the better lesson taught that while the people should patriotically and cheerfully support their Government its functions do not include the support of the people
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+people (22)
+government (14)
+american (8)
+public (8)
+support (7)
+service (7)
+national (6)
+power (5)
+laws (5)
+interests (5)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/grover_cleveland_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JAMES KNOX POLK, INAUGURAL ADDRESS
+File: james_knox_polk_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+457    28710  24338             4812   154        31          31              40.87%     59.13% 
+
+
+ABSTRACT
+--------
+1.  Under a wise policy the debts contracted in our Revolution and during the War of 1812 have been happily extinguished
+2.  None of the present States will be responsible for them any more than they are for the local institutions of each other
+3.  Does he expect to find among the ruins of this Union a happier abode for our swarming millions than they now have under it
+4.  No one of these interests can rightfully claim an advantage over the others, or to be enriched by impoverishing the others
+5.  Whatever is good or evil in the local institutions of Texas will remain her own whether annexed to the United States or not
+6.  The burdens of government should as far as practicable be distributed justly and equally among all classes of our population
+7.  In taking "care that the laws be faithfully executed," a strict performance of duty will be exacted from all public officers
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (47)
+states (36)
+union (32)
+powers (16)
+people (16)
+constitution (15)
+country (15)
+interests (14)
+revenue (13)
+united (13)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/james_knox_polk_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for FRANKLIN PIERCE, INAUGURAL ADDRESS
+File: franklin_pierce_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+310    20075  17037             3341   105        15          31              39.56%     60.44% 
+
+
+ABSTRACT
+--------
+1.  The dangers of a concentration of all power in the general government of a confederacy so vast as ours are too obvious to be disregarded
+2.  Let it be impressed upon all hearts that, beautiful as our fabric is, no earthly power or wisdom could ever reunite its broken fragments
+3.  With these views firmly and honestly carried out, we have a right to expect, and shall under all circumstances require, prompt reciprocity
+4.  It must be felt that there is no national security but in the nation's humble, acknowledged dependence upon God and His overruling providence
+5.  It was not a presumptuous assurance, but a calm faith, springing from a clear view of the sources of power in a government constituted like ours
+6.  Higher objects than personal aggrandizement gave direction and energy to their exertions in the late canvass, and they shall not be disappointed
+7.  I hold that the laws of 1850, commonly called the "compromise measures," are strictly constitutional and to be unhesitatingly carried into effect
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+power (11)
+government (10)
+rights (8)
+states (8)
+great (8)
+nation (8)
+future (7)
+public (6)
+national (6)
+constitutional (6)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/franklin_pierce_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for GEORGE BUSH, INAUGURAL ADDRESS
+File: george_bush_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+221    12507  10386             2316   148        29          15              35.88%     64.12% 
+
+
+ABSTRACT
+--------
+1.  We have more will than wallet; but will is what we need
+2.  That we were more driven to succeed than anyone around us
+3.  Assistance can be shown here, and will be long remembered
+4.  And so, there is much to do; and tomorrow the work begins
+5.  I do not mistrust the future; I do not fear what is ahead
+6.  We need harmony; we have had a chorus of discordant voices
+7.  For this is the thing: This is the age of the offered hand
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+world (10)
+great (10)
+nation (10)
+free (9)
+good (8)
+hand (8)
+friends (8)
+time (7)
+people (7)
+work (7)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/george_bush_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for ANDREW JACKSON, SECOND INAUGURAL ADDRESS
+File: andrew_jackson_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+117    7060   5991              1177   31         10          37              39.59%     60.41% 
+
+
+ABSTRACT
+--------
+1.  The event of the existing crisis will be decisive in the opinion of mankind of the practicability of our federal system of government
+2.  It shall be displayed to the extent of my humble abilities in continued efforts so to administer the Government as to preserve their liberty and promote their happiness
+3.  These great objects are necessarily connected, and can only be attained by an enlightened exercise of the powers of each within its appropriate sphere in conformity with the public will constitutionally expressed
+4.  In proportion, therefore, as the General Government encroaches upon the rights of the States, in the same proportion does it impair its own power and detract from its ability to fulfill the purposes of its creation
+5.  But of equal, and, indeed, of incalculable, importance is the union of these States, and the sacred duty of all to contribute to its preservation by a liberal support of the General Government in the exercise of its just powers
+6.  In the domestic policy of this Government there are two objects which especially deserve the attention of the people and their representatives, and which have been and will continue to be the subjects of my increasing solicitude
+7.  For their approbation of my public conduct through a period which has not been without its difficulties, and for this renewed expression of their confidence in my good intentions, I am at a loss for terms adequate to the expression of my gratitude
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (13)
+union (9)
+people (9)
+states (8)
+powers (5)
+general (5)
+exercise (4)
+preservation (4)
+liberty (4)
+united (4)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/andrew_jackson_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for HERBERT HOOVER, INAUGURAL ADDRESS
+File: herbert_hoover_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+405    22957  19565             3766   165        48          22              41.19%     58.81% 
+
+
+ABSTRACT
+--------
+1.  For wise guidance in this great period of recovery the Nation is deeply indebted to Calvin Coolidge
+2.  Most of these nations have contributed to our race, to our culture, our knowledge, and our progress
+3.  I am not prepared to believe that this indicates any decay in the moral fiber of the American people
+4.  I covet for this administration a record of having further contributed to advance the cause of peace
+5.  Its intricate and involved rules of procedure have become the refuge of both big and little criminals
+6.  I have received unbounded hospitality and courtesy as their expression of friendliness to our country
+7.  I am not prepared to believe that it indicates an impotence of the Federal Government to enforce its laws
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (33)
+people (17)
+progress (16)
+peace (15)
+world (15)
+justice (14)
+public (12)
+laws (12)
+nation (12)
+enforcement (11)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/herbert_hoover_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for GEORGE W. BUSH, SECOND INAUGURAL ADDRESS
+File: george_w._bush_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+219    11949  10072             2067   107        33          19              42.13%     57.87% 
+
+
+ABSTRACT
+--------
+1.  Some have unwisely chosen to test America's resolve, and have found it firm
+2.  The great objective of ending tyranny is the concentrated work of generations
+3.  Americans, of all people, should never be surprised by the power of our ideals
+4.  The best hope for peace in our world is the expansion of freedom in all the world
+5.  Start on this journey of progress and justice, and America will walk at your side
+6.  From the viewpoint of centuries, the questions that come to us are narrowed and few
+7.  Now it is the urgent requirement of our nation's security, and the calling of our time
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+freedom (27)
+america (20)
+liberty (15)
+nation (10)
+americans (8)
+world (8)
+country (8)
+free (7)
+time (7)
+history (7)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/george_w._bush_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JAMES MONROE FIRST INAUGURAL ADDRESS
+File: james_monroe_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+317    19887  16811             3379   124        21          27              39.21%     60.79% 
+
+
+ABSTRACT
+--------
+1.  Equally proper is it to persevere in our efforts to extend to them the advantages of civilization
+2.  Who restrained from offering his vows in the mode which he prefers to the Divine Author of his being
+3.  To the people, therefore, and to the faithful and able depositaries of their trust is the credit due
+4.  The American people have encountered together great dangers and sustained severe trials with success
+5.  In explaining my sentiments on this subject it may be asked, What raised us to the present happy state
+6.  With such an organization of such a people the United States have nothing to dread from foreign invasion
+7.  It will evince a relaxation and want of tone in the Administration which will be felt by the whole community
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (22)
+states (21)
+great (21)
+people (15)
+united (13)
+war (10)
+union (10)
+country (9)
+foreign (9)
+principles (9)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/james_monroe_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for FRANKLIN D. ROOSEVELT, FOURTH INAUGURAL ADDRESS
+File: franklin_d._roosevelt_fourth_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+69     3015   2518              558    31         16          18              35.8%      64.2%  
+
+
+ABSTRACT
+--------
+1.  It is a test of our courage--of our resolve--of our wisdom--our essential democracy
+2.  We have learned that we must live as men, not as ostriches, nor as dogs in the manger
+3. " We can gain no lasting peace if we approach it with suspicion and mistrust or with fear
+4.  We Americans of today, together with our allies, are passing through a period of supreme test
+5.  He has given to our country a faith which has become the hope of all peoples in an anguished world
+6.  We have learned the simple truth, as Emerson said, that "The only way to have a friend is to be one
+7.  Sometimes we will be rising toward the heights--then all will seem to reverse itself and start downward
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+peace (6)
+learned (5)
+men (4)
+today (4)
+test (3)
+gain (2)
+truth (2)
+world (2)
+live (2)
+perfect (2)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/franklin_d._roosevelt_fourth_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JAMES MADISON FIRST INAUGURAL ADDRESS
+File: james_madison_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+112    7000   5927              1177   22         7           53              39.26%     60.74% 
+
+
+ABSTRACT
+--------
+1.  If I do not sink under the weight of this deep conviction it is because I find some support in a consciousness of the purposes and a confidence in the principles which I bring with me into this arduous service
+2.  The pressure of these, too, is the more severely felt because they have fallen upon us at a moment when the national prosperity being at a height not before attained, the contrast resulting from the change has been rendered the more striking
+3.  So distinguished a mark of confidence, proceeding from the deliberate and tranquil suffrage of a free and virtuous nation, would under any circumstances have commanded my gratitude and devotion, as well as filled me with an awful sense of the trust to be assumed
+4.  It is a precious reflection that the transition from this prosperous condition of our country to the scene which has for some time been distressing us is not chargeable on any unwarrantable views, nor, as I trust, on any involuntary errors in the public councils
+5.  Under the benign influence of our republican institutions, and the maintenance of peace with all nations whilst so many of them were engaged in bloody and wasteful wars, the fruits of a just policy were enjoyed in an unrivaled growth of our faculties and resources
+6.  But the source to which I look or the aids which alone can supply my deficiencies is in the well-tried intelligence and virtue of my fellow-citizens, and in the counsels of those representing them in the other departments associated in the care of the national interests
+7.  Assuring myself that under every vicissitude the determined spirit and united councils of the nation will be safeguards to its honor and its essential interests, I repair to the post assigned me with no other discouragement than what springs from my own inadequacy to its high duties
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+public (6)
+nations (6)
+states (4)
+rights (4)
+peace (4)
+country (4)
+united (3)
+improvements (3)
+full (3)
+confidence (3)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/james_madison_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for THOMAS JEFFERSON SECOND INAUGURAL ADDRESS
+File: thomas_jefferson_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+208    12909  10940             2166   46         15          47              39.02%     60.98% 
+
+
+ABSTRACT
+--------
+1.  I know that the acquisition of Louisiana had been disapproved by some from a candid apprehension that the enlargement of our territory would endanger its union
+2.  These abuses of an institution so important to freedom and science are deeply to be regretted, inasmuch as they tend to lessen its usefulness and to sap its safety
+3.  I shall need, therefore, all the indulgence which I have heretofore experienced from my constituents; the want of it will certainly not lessen with increasing years
+4.  That is due, in the first place, to the reflecting character of our citizens at large, who, by the weight of public opinion, influence and strengthen the public measures
+5.  In the transaction of your foreign affairs we have endeavored to cultivate the friendship of all nations, and especially of those with which we have the most important relations
+6.  During this course of administration, and in order to disturb it, the artillery of the press has been leveled against us, charged with whatsoever its licentiousness could devise or dare
+7.  The larger our association the less will it be shaken by local passions; and in any view is it not better that the opposite bank of the Mississippi should be settled by our own brethren and children than by strangers of another family
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+public (14)
+citizens (10)
+state (8)
+fellow (8)
+time (6)
+constitution (6)
+false (5)
+reason (5)
+limits (5)
+truth (4)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/thomas_jefferson_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for WILLIAM JEFFERSON CLINTON, SECOND INAUGURAL ADDRESS
+File: william_jefferson_clinton_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+229    12247  10237             2158   113        35          19              39.69%     60.31% 
+
+
+ABSTRACT
+--------
+1.  In this new land, education will be every citizen's most prized possession
+2.  Now, for the third time, a new century is upon us, and another time to choose
+3.  From the height of this place and the summit of this century, let us go forth
+4.  Instead, now we are building bonds with nations that once were our adversaries
+5.  The promise we sought in a new land we will find again in a land of new promise
+6.  He said: "It is wrong to waste the precious gift of time, on acrimony and division
+7.  Parents and children will have time not only to work, but to read and play together
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+century (20)
+world (15)
+america (15)
+nation (13)
+time (12)
+people (11)
+land (11)
+government (10)
+promise (10)
+american (9)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/william_jefferson_clinton_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for RONALD REAGAN, SECOND INAUGURAL ADDRESS
+File: ronald_reagan_second_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+272    14548  12220             2561   129        43          19              40.45%     59.55% 
+
+
+ABSTRACT
+--------
+1.  And there is another area where the Federal Government can play a part
+2.  And it is the world's only hope, to conquer poverty and preserve peace
+3.  Freedom is one of the deepest and noblest aspirations of the human spirit
+4.  We are not just discussing limits on a further increase of nuclear weapons
+5.  Human freedom is on the march, and nowhere more so than our own hemisphere
+6.  When I took this oath four years ago, I did so in a time of economic stress
+7.  America must remain freedom's staunchest friend, for freedom is our best ally
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+government (18)
+people (17)
+world (16)
+freedom (14)
+time (10)
+human (9)
+history (9)
+peace (8)
+god (8)
+america (7)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/ronald_reagan_second_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for FRANKLIN D. ROOSEVELT, FIRST INAUGURAL ADDRESS
+File: franklin_d._roosevelt_first_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+193    10893  9179              1881   87         26          21              41.24%     58.76% 
+
+
+ABSTRACT
+--------
+1.  This is no unsolvable problem if we face it wisely and courageously
+2.  Faced by failure of credit they have proposed only the lending of more money
+3.  This great Nation will endure as it has endured, will revive and will prosper
+4.  In their need they have registered a mandate that they want direct, vigorous action
+5.  The money changers have fled from their high seats in the temple of our civilization
+6.  This is preeminently the time to speak the truth, the whole truth, frankly and boldly
+7.  I am convinced that you will again give that support to leadership in these critical days
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+national (9)
+people (8)
+helped (7)
+leadership (7)
+world (6)
+action (6)
+nation (6)
+money (5)
+time (5)
+duty (4)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/franklin_d._roosevelt_first_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for JOHN QUINCY ADAMS, INAUGURAL ADDRESS
+File: john_quincy_adams_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+268    17736  15082             2916   77         10          37              41.38%     58.62% 
+
+
+ABSTRACT
+--------
+1.  Whatsoever directly involves the rights and interests of the federative fraternity or of foreign powers is of the resort of this General Government
+2.  The collisions of party spirit which originate in speculative opinions or in different views of administrative policy are in their nature transitory
+3.  You have heard the exposition of the principles which will direct me in the fulfillment of the high and solemn trust imposed upon me in this station
+4.  I can not but hope that by the same process of friendly, patient, and persevering deliberation all constitutional objections will ultimately be removed
+5.  It has passed away in a period of profound peace, how much to the satisfaction of our country and to the honor of our country's name is known to you all
+6.  Ten years of peace, at home and abroad, have assuaged the animosities of political contention and blended into harmony the most discordant elements of public opinion
+7.  Union, justice, tranquillity, the common defense, the general welfare, and the blessings of liberty--all have been promoted by the Government under which we have lived
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+union (20)
+government (17)
+rights (10)
+country (10)
+public (9)
+great (9)
+peace (9)
+nation (8)
+general (8)
+constitution (8)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/john_quincy_adams_inaugural_address.txt
+
+
+
+============================================================
+
+Statistics for THEODORE ROOSEVELT, INAUGURAL ADDRESS
+File: theodore_roosevelt_inaugural_address.txt
+
+Lines  Chars  Chars (no space)  Words  Sentences  Paragraphs  Words/sentence  Non-fluff  Fluff  
+-----  -----  ----------------  -----  ---------  ----------  --------------  ---------  -----  
+86     5572   4667              990    34         4           29              34.97%     65.03% 
+
+
+ABSTRACT
+--------
+1.  While ever careful to refrain from wrongdoing others, we must be no less insistent that we are not wronged ourselves
+2.  Our relations with the other powers of the world are important; but still more important are our relations among ourselves
+3.  Upon the success of our experiment much depends, not only as regards our own welfare, but as regards the welfare of mankind
+4.  We in our turn have an assured confidence that we shall be able to leave this heritage unwasted and enlarged to our children and our children's children
+5.  We are the heirs of the ages, and yet we have had to pay few of the penalties which in old countries are exacted by the dead hand of a bygone civilization
+6.  Never before have men tried so vast and formidable an experiment as that of administering the affairs of a continent under the forms of a Democratic republic
+7.  No weak nation that acts manfully and justly should ever have cause to fear us, and no strong power should ever be able to single us out as a subject for insolent aggression
+
+
+
+THE TEN MOST COMMON SIGNIFICANT WORDS
+------------------------------
+life (6)
+people (6)
+problems (5)
+nation (5)
+great (5)
+republic (4)
+men (4)
+power (4)
+children (3)
+tasks (3)
+
+FULL TEXT: /students/tbroderi/public_html/cs132a/Week6/inaugural_addresses/theodore_roosevelt_inaugural_address.txt
+
+
