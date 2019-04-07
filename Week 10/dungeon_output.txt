@@ -1,0 +1,67 @@
+Script started on Sat Apr  6 19:09:13 2019
+[?1034hbash-3.2$ ruby /Users/teganbroderick/Documents/CCSF/CS132A\ Ruby/Week\ 10/dungeo n.rb 
+Welcome to the dungeon adventure game
+What is your name?
+Tegan
+
+Hello Tegan !
+You wake up one morning inside a large, mysterious cave. Use the terms 'north', 'south', 'east', 'west', 'up' and 'down' to explore your surroundings. Watch out for large cats and lava.
+
+Large Cave: You are in a large, cavernous cave. To the west is a small cave. To the east is a passageway from which you can hear the faint sound of cats meowing. There is a ladder going up and out of the cavern, and another ladder going down. Which direction do you want to go?
+
+up
+
+ You go up
+
+Mountain Top: You are on a mountain top. To the east, jagged, snow-covered peaks reach as far as the eye can see. To the west, a path runs down between two boulders, leading to a far away tent in the distance. There is a ladder next to you going down into a cave. Which direction do you want to go?
+
+east
+
+ You go east
+
+Hang Glider: You are on a jagged mountain peak. A hang glider sits on a flat rock next to you. To the west is the mountaintop from which you came. To the south is a deserted beach, which you can glide to by grabbing onto the hang glider and throwing yourself off the peak. Which way do you want to go?
+
+southh
+Sorry, i don't know that direction. Which direction do you want to go?
+south
+
+ You go south
+
+Beach: You are on a small beach in a deserted cove. A gloomy sky hangs overhead. The clouds open up and drench you with rain. Go north into the cave!
+
+north
+
+ You go north
+
+Small Cave: You are in a small, claustrophobic cave. To the east is a larger cave. To the south is a passage to a beach. Which direction do you want to go?
+
+East
+
+ You go east
+
+Large Cave: You are in a large, cavernous cave. To the west is a small cave. To the east is a passageway from which you can hear the faint sound of cats meowing. There is a ladder going up and out of the cavern, and another ladder going down. Which direction do you want to go?
+
+east
+
+ You go east
+
+Cat Cave: You are in a large cave containing hundreds of friendly cats. They surround you and try to nudge you towards a dark, eastward passage. To the north there is a small hole in the side of the cave with a vine growing through it. To the west is a large cave. Which direction do you want to go - east, west, or north?
+
+north
+
+ You go north
+
+Jungle: You are in the jungle. Humidity hits you in the face as you tear through tropical plants and vines, trying to find your way forward. To the north lays a dense path of plants. To the south, a path leads to a narrow opening in the rocks, from which you can hear the faint sound of cats meowing. Which direction to you want to go?
+
+north
+
+ You go north
+
+Atrium: You are standing outside an enormous Victorian glass greenhouse. Ornate stained glass panels line the walls. You open the front door and step inside. Lines of potted exotic tropical plants stretch as far as the eye can see. You decide to stay and tend to the plants, happily living out your days. The end.
+
+exit
+Thanks for playing!
+bash-3.2$ exit
+exit
+
+Script done on Sat Apr  6 19:10:04 2019
