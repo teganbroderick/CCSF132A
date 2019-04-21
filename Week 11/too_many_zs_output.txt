@@ -1,0 +1,33 @@
+Script started on Sat Apr 13 14:34:26 2019
+[?1034hbash-3.2$ ruby /Users/teganbroderick/Documents/CCSF/CS132A\ Ruby/Week\ 11/too_ma ny_zs.rb 
+String raising error is: You have marvelous skilzzzzzzz, my man!
+TooManyZZZs
+There you go again with your goofy 'z' obsession!
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:15:in `initialize'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:25:in `new'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:25:in `block in <main>'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:23:in `each'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:23:in `<main>'
+
+String raising error is: My propation officer had me cleanout the elephant compound at the zzzzzzzzzoo!
+TooManyZZZs
+There you go again with your goofy 'z' obsession!
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:15:in `initialize'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:25:in `new'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:25:in `block in <main>'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:23:in `each'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:23:in `<main>'
+
+String raising error is: I love to watch my goofy friend guzzle his infinite beerzzzzz.
+TooManyZZZs
+There you go again with your goofy 'z' obsession!
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:15:in `initialize'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:25:in `new'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:25:in `block in <main>'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:23:in `each'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/too_many_zs.rb:23:in `<main>'
+
+bash-3.2$ exit
+exit
+
+Script done on Sat Apr 13 14:34:43 2019

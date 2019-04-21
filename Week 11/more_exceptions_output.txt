@@ -1,0 +1,56 @@
+Script started on Sat Apr 13 15:09:58 2019
+[?1034hbash-3.2$ ruby /Users/teganbroderick/Documents/CCSF/CS132A\ Ruby/Week\ 11/more_e xceptions.rb 
+String raising error is: You have marvelous skilzzzzzzz, my man!
+TooManyZZZs
+There you go again with your goofy 'z' obsession!
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:17:in `initialize'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:27:in `new'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:27:in `block in <main>'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:25:in `each'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:25:in `<main>'
+
+String raising error is: My propation officer had me cleanout the elephant compound at the zzzzzzzzzoo!
+TooManyZZZs
+There you go again with your goofy 'z' obsession!
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:17:in `initialize'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:27:in `new'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:27:in `block in <main>'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:25:in `each'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:25:in `<main>'
+
+String raising error is: I love to watch my goofy friend guzzle his infinite beerzzzzz.
+TooManyZZZs
+There you go again with your goofy 'z' obsession!
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:17:in `initialize'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:27:in `new'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:27:in `block in <main>'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:25:in `each'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:25:in `<main>'
+
+ArgumentError
+negative array size
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:43:in `first'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:43:in `<main>'
+
+IndexError
+index 7 outside of array bounds: -4...4
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:53:in `fetch'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:53:in `<main>'
+
+NameError
+uninitialized constant VariableThatDoesntExist
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:63:in `<main>'
+
+NoMethodError
+undefined method `a' for main:Object
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:73:in `<main>'
+
+ZeroDivisionError
+divided by 0
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:83:in `/'
+/Users/teganbroderick/Documents/CCSF/CS132A Ruby/Week 11/more_exceptions.rb:83:in `<main>'
+
+bash-3.2$ exit
+exit
+
+Script done on Sat Apr 13 15:10:11 2019
