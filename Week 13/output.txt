@@ -1,0 +1,39 @@
+_____________________________________________________________________________________________________________
+Odd lines only
+_____________________________________________________________________________________________________________
+          Hardy         Ephram        293-259-5395         235 Carlton Lane           Joliet  IL    8/12/1920
+        Chevsky           Igor        385-375-8395       3567 Populus Place         Caldwell  NJ    6/18/1968
+          Cowan       Jennifer        548-834-2348          408 Laurel Ave.       Kingsville  TX    10/1/1935
+        DeLoach            Jon        408-253-3122             123 Park St.         San Jose  CA    7/25/1953
+          Evich          Karen        284-758-2867       23 Edgecliff Place          Lincoln  NB    11/3/1935
+          Gortz           Lori        327-832-5728        3465 Mirlo Street          Peabody  MA    10/2/1965
+      Gutierrez           Paco        835-365-1284          454 Easy Street          Decatur  IL    2/28/1953
+       Lancelot            Sir        837-835-8257    474 Camelot Boulevard             Bath  WY    5/13/1969
+         Savage          Tommy        408-724-0140         1222 Oxbow Court        Sunnyvale  CA    5/19/1966
+           Kopf        William        846-836-2837           6937 Ware Road           Milton  PA    9/21/1946
+        Pinhead          Zippy        834-823-8319        2356 Bizarro Ave.         Farmount  IL     1/1/1967
+
+_____________________________________________________________________________________________________________
+Even lines only
+_____________________________________________________________________________________________________________
+           Boop          Betty        245-836-8357          635 Cutesy Lane        Hollywood  CA    6/23/1923
+     Fardbarkle           Fred        674-843-1385            20 Parak Lane           DeLuth  MN    4/12/1923
+          Ikeda          James        834-938-8376         23445 Aster Ave.        Allentown  NJ    12/1/1938
+           Neal          Jesse        408-233-8971          45 Rose Terrace    San Francisco  CA     2/3/2001
+       Santiago           Jose        385-898-8357              38 Fife Way          Abilene  TX     1/5/1958
+        Kirstin         Lesley        408-456-1234         4 Harvard Square           Boston  MA    4/22/2001
+         Corder          Norma        397-857-2735           74 Pine Street         Dearborn  MI    3/28/1945
+         Sailor         Popeye        156-454-3322         945 Bluto Street         Anywhere USA    3/19/1935
+       Blenheim          Steve        238-923-7366           95 Latham Lane           Easton  PA   11/12/1956
+          Tranh           Vinh        438-910-7449        8235 Maple Street       Wilmington  VM    9/23/1963
+      Takeshida          Yukio        387-827-1095              13 Uno Lane         Ashville  NC     7/1/1929
+         Warhol           Andy        212-321-7654     231 East 47th Street    New York City  NY     8/6/1928
+
+_____________________________________________________________________________________________________________
+Printing last five lines
+_____________________________________________________________________________________________________________
+          Tranh           Vinh        438-910-7449        8235 Maple Street       Wilmington  VM    9/23/1963
+           Kopf        William        846-836-2837           6937 Ware Road           Milton  PA    9/21/1946
+      Takeshida          Yukio        387-827-1095              13 Uno Lane         Ashville  NC     7/1/1929
+        Pinhead          Zippy        834-823-8319        2356 Bizarro Ave.         Farmount  IL     1/1/1967
+         Warhol           Andy        212-321-7654     231 East 47th Street    New York City  NY     8/6/1928
