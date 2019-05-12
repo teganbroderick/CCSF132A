@@ -1,0 +1,20 @@
+<!doctype html>
+<head>
+    <meta charset="utf-8">
+    <title>Example Ruby Form-processing CGI Script</title>
+    <link rel="stylesheet" href="/~dputnam/assets/stylesheets/minimal.css">
+    <style>pre {white-space: pre-wrap !important;}</style>
+</head>
+<body>
+   <h2>Example Ruby Form-processing CGI Script</h2>
+
+   <div class='alert alert-info'>Enter the value of <span class='pi'>&Pi;</span> to 20 digits to see the source code. You can find it <a href='http://www.wolframalpha.com/input/?i=pi+to+20+digits' style='border-bottom:dotted 1px blue'> at Wolfram </a>
+	 or by digging through the 
+	 HTML source code of this page.</div>
+    <p>
+   <form action="" method="post">
+        <span class="pi">&Pi;</span> to 20 digits <input type="text" name="pi" value="">
+      <input type="submit" name="submit" value='PI me!'>
+   </form>
+    </p>
+    <div style="display:none">3.1415926535897932385</div>
