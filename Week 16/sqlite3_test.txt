@@ -1,0 +1,13 @@
+no such table: users
+Recreating the USERS table
+ID                     NAME                         EMAIL                                                       HASHED_PASSWORD                      PASSWORD_SALT
+ 1                      joe                   joe@joe.com      ce27f63a91ac8bc34ccca79abe8d628282851e3b967fa877bc58a8c8fd4c06b3           uVG+6P9u5gDlqxVRjjeN2w==
+ 2                   joseph               joeseph@joe.com      17abeb4ab478c98c229a40a7da29d77d4b4f6e76afb5d801ddd37c49b68badbb           zkFGBd66slsJy+XQqdxQmA==
+ 3                      tom                   tom@tom.com      d88b0f42f044c4589f8d99950571e0e9553a958b0595facef17a7f30a80b6076           gVBxIVDCYDwcgvYFRpi6lw==
+ 4                     dick                 dick@dick.com      2310597c7f006c2fffd45124bf3e926ee094fd149320d1ba9af3f225f6414257           AGB/4xs5yvnCXOBz5FtFeA==
+ 5                 daenerys      daenerys@dragonstone.com      ffce6d9f842f9d2f8b268f1a0e01b8753552a306cb7b3a2f391ab652fc7ffedb           KIy9WndjCMB14HLdG4+F7g==
+ 6                 johnsnow          johnsnow@thewall.com      e2881bbd9ff2ec7a81d9c42907f50a57699ba0716f735b0c493d6eb572fedf25           bj8aUnJYTR2nnv9XnoxWLg==
+ 7                aryastark      aryastark@winterfell.com      2a14a0e932b97e6f0d3519bee79951d9ca88962a66197f61cb0347d7a1e7c7e7           iGKLmq2h7Xp5on4gGuBpZQ==
+ 8               sansastark         sansa@castleblack.com      6c2d06b8d6dafeae9bf3371be39f240031781f8ca5dd2a534eb1e670ac81c3e2           my7CcfSGbw9HDaT6me9mEg==
+ 9                   cersei       cersei@kingslanding.com      88a2a410107c1281a0c824ac52a8c0bf17d2234f8d5597a02c87f035d920fa02           24MIhqT/8MImoZ3WGXylTQ==
+10          tyrionlannister       tyrion@casterlyrock.com      8bb2d2fa24e5bb61738700caa3a5974cbad720131696d5dfa0420973ed7a0497           sHBIGNh8acW0uKnqe7PygA==
